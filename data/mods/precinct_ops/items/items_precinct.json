@@ -1,0 +1,41 @@
+[
+  {
+    "type": "GUN",
+    "id": "service_pistol",
+    "name": { "str": "service pistol" },
+    "description": "A standard issue 9mm sidearm with a suppressor and red dot inlay. Reliable and light.",
+    "material": [ "steel", "plastic" ],
+    "volume": 8,
+    "weight": 1200,
+    "price": 120000,
+    "bashing": 6,
+    "cutting": 0,
+    "to_hit": 0,
+    "ranged_damage": 28,
+    "dispersion": 150,
+    "recoil": 120,
+    "ammo": "9mm",
+    "magazines": [ "pistol_mag_17" ],
+    "flags": [ "RELOAD_AND_SHOOT", "NEVER_JAMS" ]
+  },
+  {
+    "type": "MAGAZINE",
+    "id": "pistol_mag_17",
+    "name": { "str": "17-round pistol magazine" },
+    "description": "A 17-round 9mm magazine.",
+    "weight": 100,
+    "volume": 2,
+    "capacity": 17,
+    "ammo_type": "9mm"
+  },
+  {
+    "type": "AMMO",
+    "id": "9mm_round",
+    "name": { "str": "9mm round" },
+    "description": "Standard 9mm round used in many service pistols.",
+    "weight": 12,
+    "volume": 1,
+    "damage": 0,
+    "ammo_type": "9mm"
+  }
+]
