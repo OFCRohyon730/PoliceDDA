@@ -1,0 +1,10 @@
+{
+  "type": "MOD_INFO",
+  "ident": "precinct_ops",
+  "name": "Precinct Ops: Operation Cinder",
+  "authors": [ "You" ],
+  "description": "Adds a precinct hub, the Mara partner NPC, evidence mechanics, firearms, stealth suit, and Operation Cinder mission arc.",
+  "category": "content",
+  "dependencies": [ "dda" ],
+  "path": ""
+}
