@@ -1,0 +1,10 @@
+{
+  "type": "MOD_INFO",
+  "ident": "precinct_ops",
+  "name": "Precinct Ops: Operation Cinder",
+  "authors": [ "precinct_ops_team" ],
+  "description": "Adds a gritty precinct hub, Mara Reyes partner NPC, evidence and case-building missions, service weaponry, a stealth suit, and a short Operation Cinder mission arc.",
+  "category": "content",
+  "dependencies": [ "dda" ],
+  "path": ""
+}
