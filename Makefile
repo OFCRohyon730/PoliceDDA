@@ -151,7 +151,7 @@ OTHERS += -fsigned-char
 
 VERSION = 0.J
 
-TARGET_NAME = cataclysm
+TARGET_NAME = policedda
 TILES_TARGET_NAME = $(TARGET_NAME)-tiles
 ifeq ($(NATIVE), emscripten)
   TILES_TARGET_NAME = $(TARGET_NAME)-tiles.js
